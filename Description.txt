@@ -1,0 +1,7 @@
+Program draws in console Lissajoux and next Butterfly
+
+Commands:
+1. make
+2. executable.exe
+3. you can see how is drawing Lissajoux in console
+4. next will be drawing butterfly
